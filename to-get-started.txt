@@ -1,0 +1,10 @@
+ To get started:
+
+        cd mynuxt-app
+        npm run dev
+
+  To build & start for production:
+
+        cd mynuxt-app
+        npm run build
+        npm run start
